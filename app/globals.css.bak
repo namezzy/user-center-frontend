@@ -61,8 +61,7 @@
   }
 
   body {
-   background-color: var(--color-bg-primary);
-    color: var(--color-text-primary);
+    @apply bg-bg-primary text-text-primary;
   }
 }
 
